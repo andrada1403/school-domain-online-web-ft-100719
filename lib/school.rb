@@ -1,7 +1,7 @@
 class School
-  roster = {}
   def initialized(name)
     @name=name
+    roster = {}
   end
   def add_student(name,grade)
     @name=name
