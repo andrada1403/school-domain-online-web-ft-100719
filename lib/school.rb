@@ -7,4 +7,6 @@ class School
     @name=name
     @grade=grade
   end
+  def grade(grade)
+  end
 end
